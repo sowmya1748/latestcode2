@@ -12,7 +12,7 @@
 
 <div class="header">
     <h1>Fashion Hub</h1>
-    <p>Online Shopping for Trendy Dresses</p>
+    <p>Online Shopping for model Dresses</p>
 </div>
 
 <div class="container">
